@@ -1,6 +1,6 @@
 # Study Materials for Ethics in Tech
 
-Converted essential parts of the referenced textbooks converted to speech via Amazon Polly.
+Converted essential parts of the referenced textbooks to speech via Amazon Polly.
 
 # Other Links
 
